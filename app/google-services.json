@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800552554964",
+    "project_id": "evolveskillpath-64c9d",
+    "storage_bucket": "evolveskillpath-64c9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800552554964:android:6b3930c46584898f060641",
+        "android_client_info": {
+          "package_name": "com.pycreations.fcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7J_H-nVI4OX8ZGajWmjQKLf9srrvUXyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
