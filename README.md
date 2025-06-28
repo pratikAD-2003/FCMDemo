@@ -17,8 +17,6 @@ Features
 - 🔀 Navigate to Home, Favorite, Cart, or Profile screen on notification tap
 - 📝 In-app UI to send notification (title, body, type)
 - 📡 Broadcast to all devices via topic `all_devices`
-- ☀️ Light theme only
-- ✅ Compatible with Android 7 to Android 14+
 
 Project Structure
 -----------------
